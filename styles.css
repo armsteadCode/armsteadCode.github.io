@@ -8,5 +8,6 @@ container {
 }
 
 title {
+  align: center;
   font-color: red;
 }
