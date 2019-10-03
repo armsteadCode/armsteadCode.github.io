@@ -8,6 +8,6 @@ I am currently a student studying computer science. I know a little bit about a 
 
 ## The Website
 
-The website is hosted using github pages at [armsteadCode.github.io]:https://armsteadCode.github.io
+The website is hosted using github pages at [armsteadCode.github.io]https://armsteadCode.github.io
 While github pages only hosts static websites, I have attempted to use a number of different useful web solutions to build a more dynamic site to help show that the website itself is sort of a project in its own right (though it is a WIP).
 
